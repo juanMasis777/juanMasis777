@@ -157,30 +157,16 @@ Audits, proposals and content generated automatically.
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## ✨ Featured projects · Proyectos destacados
 
-<p align="center">
-  <a href="https://github.com/juanMasis777/madevhub-growth-engine">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMasis777&repo=madevhub-growth-engine&theme=tokyonight&hide_border=true" alt="MADEVHUB Growth Engine" />
-  </a>
-  <a href="https://github.com/juanMasis777/clientflow-crm">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMasis777&repo=clientflow-crm&theme=tokyonight&hide_border=true" alt="ClientFlow CRM" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/juanMasis777/madevhub">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMasis777&repo=madevhub&theme=tokyonight&hide_border=true" alt="MADEVHUB website" />
-  </a>
-  <a href="https://github.com/juanMasis777/relyxai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=juanMasis777&repo=relyxai&theme=tokyonight&hide_border=true" alt="RelyxAI landing" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚀 MADEVHUB Growth Engine
 
-> An AI-powered lead-generation CRM for local businesses — find prospects on Google Maps, enrich their contact
-> data, generate audits & outreach, and manage the full sales pipeline.
->
-> *Un CRM de generación de leads con IA: encuentra prospectos, enriquece contactos, genera auditorías y outreach,
-> y gestiona todo el pipeline de ventas.*
+AI-powered lead-generation CRM: finds prospects on Google Maps, enriches their
+contacts, generates audits & outreach and runs the full sales pipeline.
+
+*CRM de captación de leads con IA, de principio a fin.*
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -189,8 +175,75 @@ Audits, proposals and content generated automatically.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
+<a href="https://madevhub-growth-engine-1enx.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-22c55e?style=for-the-badge" /></a>
+<a href="https://github.com/juanMasis777/madevhub-growth-engine"><img src="https://img.shields.io/badge/Code-4f63ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ ClientFlow CRM
+
+A client-management CRM built on a full Laravel + Inertia stack, with a typed
+React front end and Tailwind UI.
+
+*CRM de gestión de clientes sobre Laravel + Inertia + React.*
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+<a href="https://github.com/juanMasis777/clientflow-crm"><img src="https://img.shields.io/badge/Code-4f63ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 MADEVHUB
+
+The official site of my studio — web design and landing pages for small
+businesses, with the service catalogue and contact funnel.
+
+*La web oficial del estudio: servicios y captación de clientes.*
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<a href="https://www.madevhub.com/"><img src="https://img.shields.io/badge/▶_Live_site-22c55e?style=for-the-badge" /></a>
+<a href="https://github.com/juanMasis777/madevhub"><img src="https://img.shields.io/badge/Code-4f63ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧴 RelyxAI
+
+Conversion-focused product landing page for a smart neck massager — built to
+sell, not just to look good.
+
+*Landing de producto enfocada 100% en conversión.*
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+<a href="https://relyxai.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-22c55e?style=for-the-badge" /></a>
+<a href="https://github.com/juanMasis777/relyxai"><img src="https://img.shields.io/badge/Code-4f63ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
 <details>
-<summary><b>🔍 Key features · Funciones clave</b></summary>
+<summary><b>🔍 Inside the Growth Engine · Por dentro del Growth Engine</b></summary>
 
 <br/>
 
@@ -205,11 +258,6 @@ Audits, proposals and content generated automatically.
 | 🔒 | Hardened backend (Helmet · rate-limit · token auth) | Backend seguro |
 
 </details>
-
-<p>
-  <a href="https://madevhub-growth-engine-1enx.vercel.app"><img src="https://img.shields.io/badge/▶_Live_demo-22c55e?style=for-the-badge" alt="Live demo" /></a>
-  <a href="https://github.com/juanMasis777/madevhub-growth-engine"><img src="https://img.shields.io/badge/Source_code-4f63ff?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-</p>
 
 <br/>
 
@@ -274,27 +322,33 @@ Demos premium para negocios locales — todas están en vivo, haz clic y explór
 <br/>
 
 <!-- ===================== STATS ===================== -->
-## 📊 GitHub stats
+## 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/juanMasis777?tab=followers"><img src="https://img.shields.io/github/followers/juanMasis777?style=for-the-badge&color=4f63ff&labelColor=1a1b27&logo=github&logoColor=white&label=Followers" alt="followers" /></a>
+  <a href="https://github.com/juanMasis777?tab=repositories"><img src="https://img.shields.io/badge/📁_19_public_repos-4f63ff?style=for-the-badge&labelColor=1a1b27" alt="repos" /></a>
+  <a href="https://github.com/juanMasis777/madevhub-growth-engine"><img src="https://img.shields.io/github/last-commit/juanMasis777/madevhub-growth-engine?style=for-the-badge&color=22c55e&labelColor=1a1b27&label=Last%20commit" alt="last commit" /></a>
+</p>
+
+<!--
+  ⚙️ STAT CARDS · TARJETAS DE ESTADÍSTICAS
+  The cards below use the PUBLIC instance of github-readme-stats, which is shared
+  by millions of profiles and constantly hits GitHub's API rate limit — that is
+  why they render as broken images.
+
+  Las tarjetas de abajo usan la instancia PÚBLICA de github-readme-stats, compartida
+  por millones de perfiles y que vive en el límite de la API de GitHub — por eso
+  aparecen como imágenes rotas.
+
+  FIX · SOLUCIÓN: deploy your own copy on Vercel (free, ~10 min), then replace
+  "github-readme-stats.vercel.app" with your own domain below and uncomment.
+  → https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=juanMasis777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=juanMasis777&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanMasis777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
-
-<details>
-<summary><b>📈 Contribution activity · Actividad</b></summary>
-
-<br/>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=juanMasis777&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
-</details>
+-->
 
 <details>
 <summary><b>🏆 Trophies · Trofeos</b></summary>
